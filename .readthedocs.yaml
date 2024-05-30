@@ -33,6 +33,4 @@ python:
   install:
     - requirements: requirements.txt
 
-# Note: Consider adding a requirements.txt file specific to documentation build dependencies 
-# inside your docs folder (docs/requirements.txt). This helps separate project dependencies 
-# from documentation build dependencies. 
+
