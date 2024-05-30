@@ -4,16 +4,16 @@ site_name: "Your Project Documentation"  # Replace with your project name
 site_description: "Documentation for your awesome project"  # Replace with a description
 
 # Theme configuration (choose a theme you like)
-theme:
-  name: material  # Material for a clean and modern look
+#theme:
+  #name: material  # Material for a clean and modern look
   # Other popular themes: readthedocs (default), mkdocs (简约风), classic
 
 # Markdown extensions (optional)
-markdown_extensions:
+#markdown_extensions:
   - admonition  # Add admonition functionality (like warnings, notes)
 
 # Plugins (optional)
-plugins:
+#plugins:
   - search  # Add search functionality to your documentation
 
 # Extra configuration (optional)
