@@ -21,7 +21,7 @@ plugins:
 
 # Where are your documentation files? (relative to this file)
 docs:
-  - index.md  # Your main documentation file
+  - README.md  # Your main documentation file
 
 # Custom CSS (optional)
 # where to find custom CSS files (relative to this file)
