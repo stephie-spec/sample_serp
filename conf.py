@@ -49,7 +49,7 @@ exclude_patterns = ['_build']
 
 # The theme to use for HTML and HTML Help pages.  
 # See https://www.sphinx-doc.org/en/master/usage/themes.html for available themes.
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_rtd_theme'  # Make sure this theme is installed (pip install sphinx-rtd-theme)
 
 # Add any paths that contain custom static files (such as style sheets, scripts,
 # images) for HTML output.
@@ -74,4 +74,3 @@ napoleon_numpy_docstring = True
 napoleon_include_private_with_doc = False
 napoleon_include_special_with_doc = True
 napoleon_use_rtype = False  # Set to True if your function has a return type
-
