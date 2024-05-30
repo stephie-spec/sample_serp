@@ -31,7 +31,7 @@ sphinx:
 python:
   # Install project dependencies from requirements.txt
   install:
-    - requirements: docs/requirements.txt
+    - requirements: requirements.txt
 
 # Note: Consider adding a requirements.txt file specific to documentation build dependencies 
 # inside your docs folder (docs/requirements.txt). This helps separate project dependencies 
