@@ -1,0 +1,29 @@
+# MkDocs configuration file
+
+site_name: "Your Project Documentation"  # Replace with your project name
+site_description: "Documentation for your awesome project"  # Replace with a description
+
+# Theme configuration (choose a theme you like)
+theme:
+  name: material  # Material for a clean and modern look
+  # Other popular themes: readthedocs (default), mkdocs (简约风), classic
+
+# Markdown extensions (optional)
+markdown_extensions:
+  - admonition  # Add admonition functionality (like warnings, notes)
+
+# Plugins (optional)
+plugins:
+  - search  # Add search functionality to your documentation
+
+# Extra configuration (optional)
+# See https://www.mkdocs.org/user-guide/configuration/ for more options
+
+# Where are your documentation files? (relative to this file)
+docs:
+  - index.md  # Your main documentation file
+
+# Custom CSS (optional)
+# where to find custom CSS files (relative to this file)
+# css:
+#   - custom.css
