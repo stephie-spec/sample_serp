@@ -1,6 +1,9 @@
 # Read the Docs configuration file for MkDocs projects
 # See https://www.mkdocs.org/ for MkDocs documentation
 
+# Required version (adjust based on your needs)
+version: 2
+
 # Required section for MkDocs builds on Read the Docs
 build:
   os: ubuntu-22.04  # Specify the operating system (optional)
@@ -15,4 +18,4 @@ mkdocs:
 # in a requirements.txt file within your docs directory
 python:
   install:
-    - requirements: docs/requirements.txt
+    - requirements: requirements.txt
